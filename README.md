@@ -1,12 +1,4 @@
-<!-- 상단 이름/타이틀 중앙 정렬 -->
-<h1 align="center">KIM HEE WON 😉</h1>
 
-<!-- 방문자 수 뱃지(히트 카운터)도 중앙에 배치 -->
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheewon1104%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-</p>
 
 <!-- 깔끔하게 카드 2개를 가로로 배치. 필요한 경우 <br>로 줄바꿈을 넣거나, 표(table)로 조정할 수도 있습니다. -->
 <p align="center">
