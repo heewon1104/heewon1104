@@ -1,9 +1,32 @@
+# HeeWon Kim (정재명)
 
+🖥️ **Frontend Engineer**
+🛠️ Currently developing **internal infrastructure systems** at **KRAFTON (IT Platform Engineering Team)**
+📍 Seoul, South Korea
+
+---
+
+## 👋 About Me
+
+* Game server programmer with experience in backend and iOS development
+* Interested in scalable server architecture, networking, and game backend systems
+* Passionate about learning through hands-on projects and team collaboration
+
+---
+
+## 💼 Experience
+
+| Type       | Period            | Role                                       | Organization                 |
+| ---------- | ----------------- | ------------------------------------------ | ---------------------------- |
+| Company    | 2025.12 ~         | Frontend Engineer                          | **KRAFTON**                  |
+| Bootcamp   | 2025.06 ~ 2025.12 | NAVER Boostcamp Web 10th                   | **NAVER**                    |
+| Bootcamp   | 2024.09 ~ 2025.01 | KRAFTON Jungle 7th                         | **KRAFTON**                  |
+| Education  | 2019.03 ~ 2025.08 | School of AI Convergence & Global Commerce | **Soongsil University**      |
+
+---
 
 <!-- 깔끔하게 카드 2개를 가로로 배치. 필요한 경우 <br>로 줄바꿈을 넣거나, 표(table)로 조정할 수도 있습니다. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heewon1104&show_icons=true&theme=radical" height="165" />
-  &nbsp;&nbsp;&nbsp;
   <a href="https://solved.ac/julian3306/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=julian3306" height="165" />
   </a>
