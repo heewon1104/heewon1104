@@ -25,15 +25,6 @@
 
 ---
 
-<!-- 깔끔하게 카드 2개를 가로로 배치. 필요한 경우 <br>로 줄바꿈을 넣거나, 표(table)로 조정할 수도 있습니다. -->
-<p align="center">
-  <a href="https://solved.ac/julian3306/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=julian3306" height="165" />
-  </a>
-</p>
-
----
-
 ## 💪 Skills
 
 ### Platforms & Languages
@@ -80,3 +71,12 @@
     />
   </a>
 </p>
+
+---
+
+<p align="left">
+  <a href="https://solved.ac/julian3306/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=julian3306" height="165" />
+  </a>
+</p>
+
