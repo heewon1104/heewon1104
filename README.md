@@ -6,8 +6,8 @@ Currently developing **internal infrastructure systems** at **KRAFTON (IT Platfo
 
 ## 👋 About Me
 
-* Game server programmer with experience in backend and iOS development
-* Interested in scalable server architecture, networking, and game backend systems
+* Frontend engineer with experience delivering a variety of projects
+* Interested in user-friendly UI/UX and the end-to-end development process, including infrastructure web backends
 * Passionate about learning through hands-on projects and team collaboration
 
 ---
