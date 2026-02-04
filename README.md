@@ -1,4 +1,4 @@
-# HeeWon Kim (정재명)
+# HeeWon Kim (김희원)
 
 🖥️ **Frontend Engineer**
 🛠️ Currently developing **internal infrastructure systems** at **KRAFTON (IT Platform Engineering Team)**
