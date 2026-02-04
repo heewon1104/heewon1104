@@ -1,8 +1,6 @@
 # HeeWon Kim (김희원)
 
-🖥️ **Frontend Engineer**
-🛠️ Currently developing **internal infrastructure systems** at **KRAFTON (IT Platform Engineering Team)**
-📍 Seoul, South Korea
+Currently developing **internal infrastructure systems** at **KRAFTON (IT Platform Engineering Team)**
 
 ---
 
