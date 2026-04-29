@@ -19,7 +19,7 @@ Currently developing **internal infrastructure systems** at **KRAFTON (IT Platfo
 | Company    | 2025.12 ~         | Frontend Engineer                          | **KRAFTON**                  |
 | Bootcamp   | 2025.06 ~ 2025.12 | NAVER Boostcamp Web 10th                   | **NAVER**                    |
 | Bootcamp   | 2024.09 ~ 2025.01 | KRAFTON Jungle 7th                         | **KRAFTON**                  |
-| Education  | 2019.03 ~ 2025.08 | School of AI Convergence & Global Commerce | **Soongsil University**      |
+| Education  | 2019.03 ~ 2025.08 | Department of Software                     | **Sejong University**        |
 
 ---
 
